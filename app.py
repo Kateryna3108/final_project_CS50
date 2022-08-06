@@ -1,7 +1,5 @@
-import os
-
 from cs50 import SQL
-from flask import Flask, flash, redirect, render_template, request, session, jsonify
+from flask import Flask, flash, redirect, render_template, request, jsonify
 
 import datetime
 from datetime import datetime, date
